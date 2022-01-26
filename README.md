@@ -3,3 +3,4 @@
 escolha a receita de hoje :) 
 
 - strogonoff
+- pave
